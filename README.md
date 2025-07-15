@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aditya Waghmare</h1>
-<h3 align="center">A enthusiastic cyber world geek, interested to exploring the cyber world by learning about the systems and network.</h3>
+<h3 align="center">An enthusiastic cyber world geek, interested in exploring the cyber world by learning about the systems and networks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya123-legnd&label=Profile%20views&color=0e75b6&style=flat" alt="aditya123-legnd" /> </p>
 
